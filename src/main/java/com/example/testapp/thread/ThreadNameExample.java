@@ -13,5 +13,7 @@ public class ThreadNameExample {
         System.out.println("스레드명: " + threadB.getName());
         threadB.start();
 
+
+
     }
 }
